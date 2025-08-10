@@ -148,7 +148,7 @@ sudo su
 ```
 
 ## 🧨 9. Dirty COW Exploit (Kernel Priv Esc)
-
+https://raw.githubusercontent.com/firefart/dirtycow/refs/heads/master/dirty.c
 ### Check Kernel
 ```bash
 uname -a
